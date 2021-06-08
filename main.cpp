@@ -44,5 +44,6 @@ int main ()
       cout << "Sunday" << endl;
       break;
     }
-  } 
+  }
+  return 0;
 }
